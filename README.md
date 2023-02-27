@@ -1,1 +1,5 @@
-# Titanic
+# Titanic - Survival Prediction
+
+This project aims to make use of machine learning to perfrom data analysis and prediction on the Titanic dataset. The prediction will reveal whether or not passengers will survive the shipwreck. To be able to perform this prediction, top classification models have been chosen, and will be built on the training dataset. After being evaluated on a validatio data, the model that performs the best is chosen to predict passengers' survival on the testing data.
+
+The project begins with loading and cleaning the dataset. This will include identfying missing values, and certain feature engineering that is believed to be beneficial to model building. After preprocessing the data, relationships between features and the target is visualized and analyzed. Following that will be preparing the data for model training and then model evaluation. The best performing model will be saved for later use, and prediction result is discussed with the aid of graphical representation.
